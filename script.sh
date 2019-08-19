@@ -1,3 +1,3 @@
 echo "this is my script"
-echo "name is: $(myname)"
+echo "name is: ${myname}"
 
